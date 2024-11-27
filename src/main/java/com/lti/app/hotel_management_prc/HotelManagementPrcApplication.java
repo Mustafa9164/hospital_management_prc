@@ -8,7 +8,7 @@ public class HotelManagementPrcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HotelManagementPrcApplication.class, args);
-		System.out.println("Hi");
+		System.out.println("Hi ,just for checking");
 	}
 
 }
